@@ -1,0 +1,16 @@
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\bin\Debug\net5.0\Dio.Bank.exe
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\bin\Debug\net5.0\Dio.Bank.deps.json
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\bin\Debug\net5.0\Dio.Bank.runtimeconfig.json
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\bin\Debug\net5.0\Dio.Bank.runtimeconfig.dev.json
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\bin\Debug\net5.0\Dio.Bank.dll
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\bin\Debug\net5.0\ref\Dio.Bank.dll
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\bin\Debug\net5.0\Dio.Bank.pdb
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\obj\Debug\net5.0\Dio.Bank.csprojAssemblyReference.cache
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\obj\Debug\net5.0\Dio.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\obj\Debug\net5.0\Dio.Bank.AssemblyInfoInputs.cache
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\obj\Debug\net5.0\Dio.Bank.AssemblyInfo.cs
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\obj\Debug\net5.0\Dio.Bank.csproj.CoreCompileInputs.cache
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\obj\Debug\net5.0\Dio.Bank.dll
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\obj\Debug\net5.0\ref\Dio.Bank.dll
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\obj\Debug\net5.0\Dio.Bank.pdb
+C:\Users\orudi\Desktop\Programação\Faculdade\Digital Innovation One\Dio.Bank\obj\Debug\net5.0\Dio.Bank.genruntimeconfig.cache
